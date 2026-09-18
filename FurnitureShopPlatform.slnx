@@ -2,4 +2,36 @@
   <Folder Name="/Solution Items/">
     <File Path="global.json" />
   </Folder>
+  <Folder Name="/src/" />
+  <Folder Name="/src/Services/" />
+  <Folder Name="/src/Services/Booking/">
+    <Project Path="Booking.Api/Booking.Api.csproj" Id="b8cbe3c5-56f2-4a72-81bf-31b0eb299b8e" />
+    <Project Path="Booking.Application/Booking.Application.csproj" Id="76bfd452-07ec-403e-9bf3-a7bcd2eea413" />
+    <Project Path="Booking.Domain/Booking.Domain.csproj" Id="595b7660-7bff-400d-9500-1209d437a7b3" />
+    <Project Path="Booking.Infrastructure/Booking.Infrastructure.csproj" Id="f876ef8b-c073-4b85-8aee-869203f08514" />
+  </Folder>
+  <Folder Name="/src/Services/Catalog/">
+    <Project Path="Catalog.Api/Catalog.Api.csproj" Id="c6f48df7-c906-41ba-b4cc-54bd1c0382b4" />
+    <Project Path="Catalog.Application/Catalog.Application.csproj" Id="b88a0d76-1ece-4b8f-ace1-1c8dd2af81c3" />
+    <Project Path="Catalog.Domain/Catalog.Domain.csproj" Id="a87cb8d2-6ff8-4571-930b-dc499899be66" />
+    <Project Path="Catalog.Infrastructure/Catalog.Infrastructure.csproj" Id="fe66b865-9a4a-4474-8612-c220d91ffd37" />
+  </Folder>
+  <Folder Name="/src/Services/Identity/">
+    <Project Path="Identity.Api/Identity.Api.csproj" Id="00b0e57d-0920-49cf-a252-b391ddcdf49c" />
+    <Project Path="Identity.Application/Identity.Application.csproj" Id="87601100-e116-4ed9-bc99-e3f3a3dc3fab" />
+    <Project Path="Identity.Domain/Identity.Domain.csproj" Id="43698821-347f-42e7-9367-62240c11b990" />
+    <Project Path="Identity.Infrastructure/Identity.Infrastructure.csproj" Id="a7aaede5-3346-4c67-90a5-c99f51be3ef8" />
+  </Folder>
+  <Folder Name="/src/Services/Notification/">
+    <Project Path="Notification.Api/Notification.Api.csproj" Id="fb143983-c952-4898-a4f6-98a6b8aed4ad" />
+    <Project Path="Notification.Application/Notification.Application.csproj" Id="6c13b288-5be9-4b46-bedd-108276557b8a" />
+    <Project Path="Notification.Domain/Notification.Domain.csproj" Id="f1ba1015-8850-4ac7-90b5-108bca76a61f" />
+    <Project Path="Notification.Infrastructure/Notification.Infrastructure.csproj" Id="8acb287e-d28f-4c60-8362-a3f0b87b4c6d" />
+  </Folder>
+  <Folder Name="/src/Services/Shop/">
+    <Project Path="Shop.Api/Shop.Api.csproj" Id="9899c2ec-a59b-4285-992e-5e2dc9f0771f" />
+    <Project Path="Shop.Application/Shop.Application.csproj" Id="9820a85a-44d4-4da0-b1b7-c26d4e590929" />
+    <Project Path="Shop.Domain/Shop.Domain.csproj" Id="d9a5380b-3034-4f8d-9f63-2ce2e07d714d" />
+    <Project Path="Shop.Infrastructure/Shop.Infrastructure.csproj" Id="3c18cf5d-2a4b-4bb2-abf2-a438115c3eac" />
+  </Folder>
 </Solution>
